@@ -1,0 +1,60 @@
+{
+  "event": "andrew",
+  "dataset": "regional",
+  "location": "Bahamas_SouthFlorida_Louisiana",
+  "bbox": {
+    "N": 44,
+    "S": 2,
+    "W": 260,
+    "E": 333
+  },
+  "region_index": [
+    184,
+    352,
+    1040,
+    1332
+  ],
+  "n_steps": 642,
+  "done": 642,
+  "save_full": false,
+  "shapes": {
+    "encoder": [
+      12264,
+      512
+    ],
+    "backbone": [
+      12264,
+      1024
+    ],
+    "prediction_surf": [
+      4,
+      168,
+      292
+    ]
+  },
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "levels": [
+    50,
+    100,
+    150,
+    200,
+    250,
+    300,
+    400,
+    500,
+    600,
+    700,
+    850,
+    925,
+    1000
+  ],
+  "times": "hourly input time t; inputs are (t-6h, t); prediction valid at t+6h",
+  "pooled": "encoder/backbone_output.npy are mean over all token axes, shape (N, D)",
+  "first_time": "1992-08-09 06:00:00",
+  "last_time": "1992-09-04 23:00:00"
+}
