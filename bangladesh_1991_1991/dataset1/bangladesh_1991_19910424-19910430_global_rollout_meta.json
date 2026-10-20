@@ -1,0 +1,28 @@
+{
+  "event": "bangladesh_1991",
+  "dataset": "global",
+  "location": "global",
+  "bbox": null,
+  "region_index": [
+    0,
+    720,
+    0,
+    1440
+  ],
+  "n_steps": 27,
+  "method": "aurora.rollout",
+  "start": "1991-04-24 00:00:00",
+  "inputs": [
+    "1991-04-23 18:00:00",
+    "1991-04-24 00:00:00"
+  ],
+  "first_valid": "1991-04-24 06:00:00",
+  "last_valid": "1991-04-30 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
