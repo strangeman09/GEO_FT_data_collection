@@ -1,0 +1,33 @@
+{
+  "event": "harvey",
+  "dataset": "regional",
+  "location": "Gulf_SoutheastTexas",
+  "bbox": {
+    "N": 47,
+    "S": 5,
+    "W": 254,
+    "E": 323
+  },
+  "region_index": [
+    172,
+    340,
+    1016,
+    1292
+  ],
+  "n_steps": 67,
+  "method": "aurora.rollout",
+  "start": "2017-08-17 00:00:00",
+  "inputs": [
+    "2017-08-16 18:00:00",
+    "2017-08-17 00:00:00"
+  ],
+  "first_valid": "2017-08-17 06:00:00",
+  "last_valid": "2017-09-02 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
