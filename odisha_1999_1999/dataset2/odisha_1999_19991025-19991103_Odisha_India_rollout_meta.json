@@ -1,0 +1,33 @@
+{
+  "event": "odisha_1999",
+  "dataset": "regional",
+  "location": "Odisha_India",
+  "bbox": {
+    "N": 29,
+    "S": 3,
+    "W": 75,
+    "E": 108
+  },
+  "region_index": [
+    244,
+    348,
+    300,
+    432
+  ],
+  "n_steps": 39,
+  "method": "aurora.rollout",
+  "start": "1999-10-25 00:00:00",
+  "inputs": [
+    "1999-10-24 18:00:00",
+    "1999-10-25 00:00:00"
+  ],
+  "first_valid": "1999-10-25 06:00:00",
+  "last_valid": "1999-11-03 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
