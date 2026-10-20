@@ -1,0 +1,33 @@
+{
+  "event": "ivan",
+  "dataset": "regional",
+  "location": "Grenada_Jamaica_Alabama",
+  "bbox": {
+    "N": 47,
+    "S": 0,
+    "W": 257,
+    "E": 341
+  },
+  "region_index": [
+    172,
+    360,
+    1028,
+    1364
+  ],
+  "n_steps": 91,
+  "method": "aurora.rollout",
+  "start": "2004-09-02 00:00:00",
+  "inputs": [
+    "2004-09-01 18:00:00",
+    "2004-09-02 00:00:00"
+  ],
+  "first_valid": "2004-09-02 06:00:00",
+  "last_valid": "2004-09-24 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
