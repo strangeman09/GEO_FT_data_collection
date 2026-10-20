@@ -1,0 +1,28 @@
+{
+  "event": "mitch",
+  "dataset": "global",
+  "location": "global",
+  "bbox": null,
+  "region_index": [
+    0,
+    720,
+    0,
+    1440
+  ],
+  "n_steps": 59,
+  "method": "aurora.rollout",
+  "start": "1998-10-22 00:00:00",
+  "inputs": [
+    "1998-10-21 18:00:00",
+    "1998-10-22 00:00:00"
+  ],
+  "first_valid": "1998-10-22 06:00:00",
+  "last_valid": "1998-11-05 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
