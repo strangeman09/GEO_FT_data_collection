@@ -1,0 +1,33 @@
+{
+  "event": "wilma",
+  "dataset": "regional",
+  "location": "Yucatan_Florida",
+  "bbox": {
+    "N": 54,
+    "S": 7,
+    "W": 264,
+    "E": 316
+  },
+  "region_index": [
+    144,
+    332,
+    1056,
+    1264
+  ],
+  "n_steps": 47,
+  "method": "aurora.rollout",
+  "start": "2005-10-15 00:00:00",
+  "inputs": [
+    "2005-10-14 18:00:00",
+    "2005-10-15 00:00:00"
+  ],
+  "first_valid": "2005-10-15 06:00:00",
+  "last_valid": "2005-10-26 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
