@@ -1,0 +1,28 @@
+{
+  "event": "hugo",
+  "dataset": "global",
+  "location": "global",
+  "bbox": null,
+  "region_index": [
+    0,
+    720,
+    0,
+    1440
+  ],
+  "n_steps": 63,
+  "method": "aurora.rollout",
+  "start": "1989-09-10 00:00:00",
+  "inputs": [
+    "1989-09-09 18:00:00",
+    "1989-09-10 00:00:00"
+  ],
+  "first_valid": "1989-09-10 06:00:00",
+  "last_valid": "1989-09-25 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
