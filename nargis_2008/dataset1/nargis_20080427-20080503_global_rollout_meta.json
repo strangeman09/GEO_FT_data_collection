@@ -1,0 +1,28 @@
+{
+  "event": "nargis",
+  "dataset": "global",
+  "location": "global",
+  "bbox": null,
+  "region_index": [
+    0,
+    720,
+    0,
+    1440
+  ],
+  "n_steps": 27,
+  "method": "aurora.rollout",
+  "start": "2008-04-27 00:00:00",
+  "inputs": [
+    "2008-04-26 18:00:00",
+    "2008-04-27 00:00:00"
+  ],
+  "first_valid": "2008-04-27 06:00:00",
+  "last_valid": "2008-05-03 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
