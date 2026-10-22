@@ -1,0 +1,33 @@
+{
+  "event": "iota",
+  "dataset": "regional",
+  "location": "Nicaragua_Honduras",
+  "bbox": {
+    "N": 24,
+    "S": 4,
+    "W": 263,
+    "E": 298
+  },
+  "region_index": [
+    264,
+    344,
+    1052,
+    1192
+  ],
+  "n_steps": 27,
+  "method": "aurora.rollout",
+  "start": "2020-11-12 00:00:00",
+  "inputs": [
+    "2020-11-11 18:00:00",
+    "2020-11-12 00:00:00"
+  ],
+  "first_valid": "2020-11-12 06:00:00",
+  "last_valid": "2020-11-18 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
