@@ -1,0 +1,33 @@
+{
+  "event": "camille",
+  "dataset": "regional",
+  "location": "Cayman_MississippiCoast_Virginia",
+  "bbox": {
+    "N": 51,
+    "S": 10,
+    "W": 261,
+    "E": 314
+  },
+  "region_index": [
+    156,
+    320,
+    1044,
+    1256
+  ],
+  "n_steps": 35,
+  "method": "aurora.rollout",
+  "start": "1969-08-14 00:00:00",
+  "inputs": [
+    "1969-08-13 18:00:00",
+    "1969-08-14 00:00:00"
+  ],
+  "first_valid": "1969-08-14 06:00:00",
+  "last_valid": "1969-08-22 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
