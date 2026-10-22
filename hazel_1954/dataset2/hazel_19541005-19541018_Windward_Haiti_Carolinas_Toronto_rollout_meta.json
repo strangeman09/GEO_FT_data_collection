@@ -1,0 +1,33 @@
+{
+  "event": "hazel",
+  "dataset": "regional",
+  "location": "Windward_Haiti_Carolinas_Toronto",
+  "bbox": {
+    "N": 67,
+    "S": 4,
+    "W": 272,
+    "E": 310
+  },
+  "region_index": [
+    92,
+    344,
+    1088,
+    1240
+  ],
+  "n_steps": 55,
+  "method": "aurora.rollout",
+  "start": "1954-10-05 00:00:00",
+  "inputs": [
+    "1954-10-04 18:00:00",
+    "1954-10-05 00:00:00"
+  ],
+  "first_valid": "1954-10-05 06:00:00",
+  "last_valid": "1954-10-18 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
