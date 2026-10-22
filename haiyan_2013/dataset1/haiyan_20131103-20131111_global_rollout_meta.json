@@ -1,0 +1,28 @@
+{
+  "event": "haiyan",
+  "dataset": "global",
+  "location": "global",
+  "bbox": null,
+  "region_index": [
+    0,
+    720,
+    0,
+    1440
+  ],
+  "n_steps": 35,
+  "method": "aurora.rollout",
+  "start": "2013-11-03 00:00:00",
+  "inputs": [
+    "2013-11-02 18:00:00",
+    "2013-11-03 00:00:00"
+  ],
+  "first_valid": "2013-11-03 06:00:00",
+  "last_valid": "2013-11-11 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
