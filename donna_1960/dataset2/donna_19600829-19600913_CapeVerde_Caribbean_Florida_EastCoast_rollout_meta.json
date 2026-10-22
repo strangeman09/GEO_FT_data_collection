@@ -1,0 +1,33 @@
+{
+  "event": "donna",
+  "dataset": "regional",
+  "location": "CapeVerde_Caribbean_Florida_EastCoast",
+  "bbox": {
+    "N": 69,
+    "S": 2,
+    "W": 270,
+    "E": 346
+  },
+  "region_index": [
+    84,
+    352,
+    1080,
+    1384
+  ],
+  "n_steps": 63,
+  "method": "aurora.rollout",
+  "start": "1960-08-29 00:00:00",
+  "inputs": [
+    "1960-08-28 18:00:00",
+    "1960-08-29 00:00:00"
+  ],
+  "first_valid": "1960-08-29 06:00:00",
+  "last_valid": "1960-09-13 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
