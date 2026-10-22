@@ -1,0 +1,60 @@
+{
+  "event": "dorian",
+  "dataset": "regional",
+  "location": "Bahamas_Carolinas_NovaScotia",
+  "bbox": {
+    "N": 60,
+    "S": 2,
+    "W": 272,
+    "E": 322
+  },
+  "region_index": [
+    120,
+    352,
+    1088,
+    1288
+  ],
+  "n_steps": 690,
+  "done": 690,
+  "save_full": false,
+  "shapes": {
+    "encoder": [
+      11600,
+      512
+    ],
+    "backbone": [
+      11600,
+      1024
+    ],
+    "prediction_surf": [
+      4,
+      232,
+      200
+    ]
+  },
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "levels": [
+    50,
+    100,
+    150,
+    200,
+    250,
+    300,
+    400,
+    500,
+    600,
+    700,
+    850,
+    925,
+    1000
+  ],
+  "times": "hourly input time t; inputs are (t-6h, t); prediction valid at t+6h",
+  "pooled": "encoder/backbone_output.npy are mean over all token axes, shape (N, D)",
+  "first_time": "2019-08-17 06:00:00",
+  "last_time": "2019-09-14 23:00:00"
+}

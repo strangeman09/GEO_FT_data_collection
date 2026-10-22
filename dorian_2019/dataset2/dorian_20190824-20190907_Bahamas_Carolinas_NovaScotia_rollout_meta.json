@@ -1,0 +1,33 @@
+{
+  "event": "dorian",
+  "dataset": "regional",
+  "location": "Bahamas_Carolinas_NovaScotia",
+  "bbox": {
+    "N": 60,
+    "S": 2,
+    "W": 272,
+    "E": 322
+  },
+  "region_index": [
+    120,
+    352,
+    1088,
+    1288
+  ],
+  "n_steps": 59,
+  "method": "aurora.rollout",
+  "start": "2019-08-24 00:00:00",
+  "inputs": [
+    "2019-08-23 18:00:00",
+    "2019-08-24 00:00:00"
+  ],
+  "first_valid": "2019-08-24 06:00:00",
+  "last_valid": "2019-09-07 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
