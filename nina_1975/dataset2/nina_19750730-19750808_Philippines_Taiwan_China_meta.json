@@ -1,0 +1,60 @@
+{
+  "event": "nina",
+  "dataset": "regional",
+  "location": "Philippines_Taiwan_China",
+  "bbox": {
+    "N": 41,
+    "S": 9,
+    "W": 103,
+    "E": 146
+  },
+  "region_index": [
+    196,
+    324,
+    412,
+    584
+  ],
+  "n_steps": 570,
+  "done": 570,
+  "save_full": false,
+  "shapes": {
+    "encoder": [
+      5504,
+      512
+    ],
+    "backbone": [
+      5504,
+      1024
+    ],
+    "prediction_surf": [
+      4,
+      128,
+      172
+    ]
+  },
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "levels": [
+    50,
+    100,
+    150,
+    200,
+    250,
+    300,
+    400,
+    500,
+    600,
+    700,
+    850,
+    925,
+    1000
+  ],
+  "times": "hourly input time t; inputs are (t-6h, t); prediction valid at t+6h",
+  "pooled": "encoder/backbone_output.npy are mean over all token axes, shape (N, D)",
+  "first_time": "1975-07-23 06:00:00",
+  "last_time": "1975-08-15 23:00:00"
+}

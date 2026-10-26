@@ -1,0 +1,33 @@
+{
+  "event": "nina",
+  "dataset": "regional",
+  "location": "Philippines_Taiwan_China",
+  "bbox": {
+    "N": 41,
+    "S": 9,
+    "W": 103,
+    "E": 146
+  },
+  "region_index": [
+    196,
+    324,
+    412,
+    584
+  ],
+  "n_steps": 39,
+  "method": "aurora.rollout",
+  "start": "1975-07-30 00:00:00",
+  "inputs": [
+    "1975-07-29 18:00:00",
+    "1975-07-30 00:00:00"
+  ],
+  "first_valid": "1975-07-30 06:00:00",
+  "last_valid": "1975-08-08 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
