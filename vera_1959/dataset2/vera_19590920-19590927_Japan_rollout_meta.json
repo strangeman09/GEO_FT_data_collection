@@ -1,0 +1,33 @@
+{
+  "event": "vera",
+  "dataset": "regional",
+  "location": "Japan",
+  "bbox": {
+    "N": 51,
+    "S": 1,
+    "W": 126,
+    "E": 192
+  },
+  "region_index": [
+    156,
+    356,
+    504,
+    768
+  ],
+  "n_steps": 31,
+  "method": "aurora.rollout",
+  "start": "1959-09-20 00:00:00",
+  "inputs": [
+    "1959-09-19 18:00:00",
+    "1959-09-20 00:00:00"
+  ],
+  "first_valid": "1959-09-20 06:00:00",
+  "last_valid": "1959-09-27 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
