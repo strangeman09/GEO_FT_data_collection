@@ -1,0 +1,33 @@
+{
+  "event": "fifi",
+  "dataset": "regional",
+  "location": "WCaribbean_Honduras_Mexico",
+  "bbox": {
+    "N": 35,
+    "S": 7,
+    "W": 244,
+    "E": 303
+  },
+  "region_index": [
+    220,
+    332,
+    976,
+    1212
+  ],
+  "n_steps": 43,
+  "method": "aurora.rollout",
+  "start": "1974-09-14 00:00:00",
+  "inputs": [
+    "1974-09-13 18:00:00",
+    "1974-09-14 00:00:00"
+  ],
+  "first_valid": "1974-09-14 06:00:00",
+  "last_valid": "1974-09-24 18:00:00",
+  "prediction_vars": [
+    "2t",
+    "10u",
+    "10v",
+    "msl"
+  ],
+  "pooled": "encoder/backbone are mean over all token axes, shape (S, D)"
+}
