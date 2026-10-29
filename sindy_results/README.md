@@ -8,7 +8,7 @@ SINDy on the mean-pooled Aurora latents, 25 events (Aashish 9, Aabhwan 8, Abdul 
 
 1. 25 events (Aashish 9, Aabhwan 8, Abdul 8) were fitted on one shared PCA basis with identical, verified settings; two events per teammate were rerun locally and reproduce to < 1e-14.
 2. Continuous-time (6-hourly) SINDy finds essentially nothing per event: 0/25 non-empty models for the encoder runs and 4-5/25 for the backbone runs, none reliably beating the zero-derivative baseline (pooled combined held-out R2 only 0.007-0.021).
-3. Discrete-time maps show an apparent signal (regional encoder, k=3: beats the no-change baseline on 20/23 non-empty events, median held-out R2 0.41; combined 6-term model held-out R2 0.60 on the increment; across the regional discrete runs R2 is about 0.4-0.6), but it is not storm dynamics. It is a fixed time-of-day pattern at 00/06/12/18 UTC: it disappears when the per-hour mean is removed (`event_diurnal` anomaly check, held-out R2 <= 0.003; see `geo_ft/sindy_study/discrete_event_diurnal_check.md` in the code repo). Read the discrete R2 values below with this in mind.
+3. Discrete-time maps show an apparent signal (regional encoder, k=3: beats the no-change baseline on 20/23 non-empty events, median held-out R2 0.41; combined 6-term model held-out R2 0.60 on the increment; across the regional discrete runs R2 is about 0.4-0.6), but it is not storm dynamics. It is a fixed time-of-day pattern at 00/06/12/18 UTC: it disappears when the per-hour mean is removed (`event_diurnal` anomaly check, held-out R2 <= 0.003; see [discrete_event_diurnal_check.md](discrete_event_diurnal_check.md)). Read the discrete R2 values below with this in mind.
 4. Per-event models agree with each other and with the combined model mainly in the k=3 regional encoder (Jaccard vs combined 0.78, pairwise 0.75), but that agreement is the same fixed time-of-day pattern as in point 3, not shared storm dynamics. In the other discrete runs the term overlap is low (0.17-0.32 vs combined) and the combined models are dense (17-25 terms), so equations differ across events.
 5. Pre-1979 (n=8) and post-1979 (n=17) events do not differ detectably in held-out R2 (all Mann-Whitney p > 0.4), so there is no sign that the older events behave differently, though 8 events gives little power.
 
@@ -29,7 +29,7 @@ SINDy on the mean-pooled Aurora latents, 25 events (Aashish 9, Aabhwan 8, Abdul 
 
 ## Main table: all runs
 
-> **Caveat:** the discrete-time R2 values (`discrete_k5`, `discrete_k3`) reflect a fixed 00/06/12/18 UTC time-of-day pattern, not storm dynamics; the signal vanishes with the per-hour mean removed (see `geo_ft/sindy_study/discrete_event_diurnal_check.md` in the code repo).
+> **Caveat:** the discrete-time R2 values (`discrete_k5`, `discrete_k3`) reflect a fixed 00/06/12/18 UTC time-of-day pattern, not storm dynamics; the signal vanishes with the per-hour mean removed (see [discrete_event_diurnal_check.md](discrete_event_diurnal_check.md)).
 
 | run | combo | events | own models non-empty | own beats baseline | median own ho R2 (all 25) | median own ho R2 (non-empty) | combined ho R2 (pooled) | combined active | combined beats baseline on |
 |---|---|---|---|---|---|---|---|---|---|
@@ -167,7 +167,7 @@ SINDy on the mean-pooled Aurora latents, 25 events (Aashish 9, Aabhwan 8, Abdul 
 
 ### discrete_k5 / d1_enc (discrete map z(t+1)=f(z(t)), k=5, poly1)
 
-> **Caveat:** the discrete-time R2 values (`discrete_k5`, `discrete_k3`) reflect a fixed 00/06/12/18 UTC time-of-day pattern, not storm dynamics; the signal vanishes with the per-hour mean removed (see `geo_ft/sindy_study/discrete_event_diurnal_check.md` in the code repo).
+> **Caveat:** the discrete-time R2 values (`discrete_k5`, `discrete_k3`) reflect a fixed 00/06/12/18 UTC time-of-day pattern, not storm dynamics; the signal vanishes with the per-hour mean removed (see [discrete_event_diurnal_check.md](discrete_event_diurnal_check.md)).
 
 | event | runner | active terms | own held-out R2 | combined held-out R2 | own held-out sim nRMSE | own beats baseline |
 |---|---|---|---|---|---|---|
@@ -199,7 +199,7 @@ SINDy on the mean-pooled Aurora latents, 25 events (Aashish 9, Aabhwan 8, Abdul 
 
 ### discrete_k5 / d1_bb (discrete map z(t+1)=f(z(t)), k=5, poly1)
 
-> **Caveat:** the discrete-time R2 values (`discrete_k5`, `discrete_k3`) reflect a fixed 00/06/12/18 UTC time-of-day pattern, not storm dynamics; the signal vanishes with the per-hour mean removed (see `geo_ft/sindy_study/discrete_event_diurnal_check.md` in the code repo).
+> **Caveat:** the discrete-time R2 values (`discrete_k5`, `discrete_k3`) reflect a fixed 00/06/12/18 UTC time-of-day pattern, not storm dynamics; the signal vanishes with the per-hour mean removed (see [discrete_event_diurnal_check.md](discrete_event_diurnal_check.md)).
 
 | event | runner | active terms | own held-out R2 | combined held-out R2 | own held-out sim nRMSE | own beats baseline |
 |---|---|---|---|---|---|---|
@@ -231,7 +231,7 @@ SINDy on the mean-pooled Aurora latents, 25 events (Aashish 9, Aabhwan 8, Abdul 
 
 ### discrete_k5 / d2_bb (discrete map z(t+1)=f(z(t)), k=5, poly1)
 
-> **Caveat:** the discrete-time R2 values (`discrete_k5`, `discrete_k3`) reflect a fixed 00/06/12/18 UTC time-of-day pattern, not storm dynamics; the signal vanishes with the per-hour mean removed (see `geo_ft/sindy_study/discrete_event_diurnal_check.md` in the code repo).
+> **Caveat:** the discrete-time R2 values (`discrete_k5`, `discrete_k3`) reflect a fixed 00/06/12/18 UTC time-of-day pattern, not storm dynamics; the signal vanishes with the per-hour mean removed (see [discrete_event_diurnal_check.md](discrete_event_diurnal_check.md)).
 
 | event | runner | active terms | own held-out R2 | combined held-out R2 | own held-out sim nRMSE | own beats baseline |
 |---|---|---|---|---|---|---|
@@ -263,7 +263,7 @@ SINDy on the mean-pooled Aurora latents, 25 events (Aashish 9, Aabhwan 8, Abdul 
 
 ### discrete_k3 / d2_enc (discrete map, k=3, poly1)
 
-> **Caveat:** the discrete-time R2 values (`discrete_k5`, `discrete_k3`) reflect a fixed 00/06/12/18 UTC time-of-day pattern, not storm dynamics; the signal vanishes with the per-hour mean removed (see `geo_ft/sindy_study/discrete_event_diurnal_check.md` in the code repo).
+> **Caveat:** the discrete-time R2 values (`discrete_k5`, `discrete_k3`) reflect a fixed 00/06/12/18 UTC time-of-day pattern, not storm dynamics; the signal vanishes with the per-hour mean removed (see [discrete_event_diurnal_check.md](discrete_event_diurnal_check.md)).
 
 | event | runner | active terms | own held-out R2 | combined held-out R2 | own held-out sim nRMSE | own beats baseline |
 |---|---|---|---|---|---|---|
@@ -439,7 +439,7 @@ Figures (generated by `compare`): coefficient heatmaps (events x terms, combined
 
 ## Pre-1979 vs post-1979
 
-> **Caveat:** the discrete-time R2 values (`discrete_k5`, `discrete_k3`) reflect a fixed 00/06/12/18 UTC time-of-day pattern, not storm dynamics; the signal vanishes with the per-hour mean removed (see `geo_ft/sindy_study/discrete_event_diurnal_check.md` in the code repo).
+> **Caveat:** the discrete-time R2 values (`discrete_k5`, `discrete_k3`) reflect a fixed 00/06/12/18 UTC time-of-day pattern, not storm dynamics; the signal vanishes with the per-hour mean removed (see [discrete_event_diurnal_check.md](discrete_event_diurnal_check.md)).
 
 Pre-1979 (n=8): bhola_1970, camille_1969, donna_1960, fifi_1974, great_atlantic_hurricane_1944, hazel_1954, nina_1975, vera_1959. Post-1979 (n=17): the other 17, including tip_1979. Split by the year in the event name. Mann-Whitney p compares the two groups' held-out R2 (own / combined); with 8 vs 17 events the power is low.
 
