@@ -1,0 +1,4 @@
+== harvey_2017 | d2_enc | n=122 active=4 thr=0.1 deriv_R2=0.484 heldout_R2=0.513 heldout_sim=0.885
+z0[k+1] = +0.724 z0 +0.226 z1
+z1[k+1] = -0.282 z0 +0.653 z1 +0.332 z2
+z2[k+1] = +0.669 z0 +0.371 z2

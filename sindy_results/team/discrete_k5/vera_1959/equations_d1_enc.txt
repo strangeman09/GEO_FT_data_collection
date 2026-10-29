@@ -1,0 +1,6 @@
+== vera_1959 | d1_enc | n=86 active=1 thr=0.5 deriv_R2=0.256 heldout_R2=0.118 heldout_sim=0.851
+z0[k+1] = +0.968 z0
+z1[k+1] = +0.940 z1
+z2[k+1] = 0
+z3[k+1] = +1.105 z2 +0.674 z3
+z4[k+1] = 0

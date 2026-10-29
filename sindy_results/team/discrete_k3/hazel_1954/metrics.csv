@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+hazel_1954,hazel_1954,dataset2,encoder,d2_enc,110,1,6,0.1,0.35222078039327515,0.7407326412465467,0.0,28,0.19381723836980594,0.8203847378080658,0.0

@@ -1,0 +1,4 @@
+== great_atlantic_hurricane_1944 | d2_enc | n=86 active=9 thr=0.003 deriv_R2=0.606 heldout_R2=0.296 heldout_sim=0.963
+z0[k+1] = -0.022 1 +0.672 z0 -0.338 z1 +0.297 z2
+z1[k+1] = +0.013 1 -0.420 z0 +0.336 z1 +0.468 z2
+z2[k+1] = -0.045 1 +0.541 z0 +0.389 z1 +0.444 z2

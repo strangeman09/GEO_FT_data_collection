@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+odisha_1999_1999,dataset2,encoder,z0,1,0.0,
+odisha_1999_1999,dataset2,encoder,z0,z0,0.5098845099523597,
+odisha_1999_1999,dataset2,encoder,z0,z1,-0.5357109003944087,
+odisha_1999_1999,dataset2,encoder,z0,z2,0.3278687663723851,
+odisha_1999_1999,dataset2,encoder,z1,1,0.0,
+odisha_1999_1999,dataset2,encoder,z1,z0,-0.6516954120710431,
+odisha_1999_1999,dataset2,encoder,z1,z1,0.0,
+odisha_1999_1999,dataset2,encoder,z1,z2,0.4817261445187222,
+odisha_1999_1999,dataset2,encoder,z2,1,0.0,
+odisha_1999_1999,dataset2,encoder,z2,z0,0.5619430016830255,
+odisha_1999_1999,dataset2,encoder,z2,z1,0.48437786881780776,
+odisha_1999_1999,dataset2,encoder,z2,z2,0.0,

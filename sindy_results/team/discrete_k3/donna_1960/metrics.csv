@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+donna_1960,donna_1960,dataset2,encoder,d2_enc,118,1,6,0.1,0.46946353273523905,0.7386358181060948,0.0,30,0.360513570534777,1.152056569567284,0.0

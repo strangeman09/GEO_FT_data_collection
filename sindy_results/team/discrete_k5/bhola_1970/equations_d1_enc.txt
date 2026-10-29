@@ -1,0 +1,6 @@
+== bhola_1970 | d1_enc | n=78 active=0 thr=0.5 deriv_R2=0.033 heldout_R2=-2.396 heldout_sim=0.966
+z0[k+1] = +0.956 z0
+z1[k+1] = +0.960 z1
+z2[k+1] = +0.885 z2
+z3[k+1] = 0
+z4[k+1] = 0

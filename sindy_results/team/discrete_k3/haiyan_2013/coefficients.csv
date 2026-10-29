@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+haiyan_2013,dataset2,encoder,z0,1,0.0,
+haiyan_2013,dataset2,encoder,z0,z0,0.541453844402927,
+haiyan_2013,dataset2,encoder,z0,z1,-0.5786878005162752,
+haiyan_2013,dataset2,encoder,z0,z2,0.5900135383911776,
+haiyan_2013,dataset2,encoder,z1,1,0.0,
+haiyan_2013,dataset2,encoder,z1,z0,-0.6549578853776181,
+haiyan_2013,dataset2,encoder,z1,z1,0.0,
+haiyan_2013,dataset2,encoder,z1,z2,0.8648335876692111,
+haiyan_2013,dataset2,encoder,z2,1,0.0,
+haiyan_2013,dataset2,encoder,z2,z0,0.901991807326313,
+haiyan_2013,dataset2,encoder,z2,z1,0.0,
+haiyan_2013,dataset2,encoder,z2,z2,0.0,

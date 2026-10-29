@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+bhola_1970,bhola_1970,dataset1,encoder,d1_enc,79,1,0,1.0,-0.1328534140503038,0.9435671885480141,0.0,20,-0.1167200854479323,0.8170316050164316,0.0

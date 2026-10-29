@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+odisha_1999_1999,odisha_1999_1999,dataset1,encoder,d1_enc,95,1,0,1.0,-0.11541535031316359,0.6139284217890296,0.0,24,-0.18994791363808106,0.786122607033848,0.0

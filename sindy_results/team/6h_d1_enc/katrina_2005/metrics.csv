@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+katrina_2005,katrina_2005,dataset1,encoder,d1_enc,91,1,0,1.0,-0.04988742510272241,0.7940589403910883,0.0,23,-4.465184540115947,0.7339514273569658,0.0

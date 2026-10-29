@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+vera_1959,dataset2,encoder,z0,1,0.0,
+vera_1959,dataset2,encoder,z0,z0,0.5779633514112488,
+vera_1959,dataset2,encoder,z0,z1,-0.506622952362405,
+vera_1959,dataset2,encoder,z0,z2,0.5199763199270439,
+vera_1959,dataset2,encoder,z1,1,0.0,
+vera_1959,dataset2,encoder,z1,z0,-0.6441653962036252,
+vera_1959,dataset2,encoder,z1,z1,0.18471003279877235,
+vera_1959,dataset2,encoder,z1,z2,0.7709273003645783,
+vera_1959,dataset2,encoder,z2,1,0.0,
+vera_1959,dataset2,encoder,z2,z0,0.44109619806690553,
+vera_1959,dataset2,encoder,z2,z1,0.5389678323128594,
+vera_1959,dataset2,encoder,z2,z2,0.2982489893224014,

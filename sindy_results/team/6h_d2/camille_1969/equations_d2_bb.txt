@@ -1,0 +1,4 @@
+== camille_1969 | d2_bb | n=91 active=0 thr=1 deriv_R2=-0.012 heldout_R2=-0.494 heldout_sim=1.647
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0

@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+maria_2017,dataset2,encoder,z0,1,0.0,
+maria_2017,dataset2,encoder,z0,z0,0.6059638936691063,
+maria_2017,dataset2,encoder,z0,z1,-0.44877226996295433,
+maria_2017,dataset2,encoder,z0,z2,0.4119239105794603,
+maria_2017,dataset2,encoder,z1,1,0.0,
+maria_2017,dataset2,encoder,z1,z0,-0.46902238265917945,
+maria_2017,dataset2,encoder,z1,z1,0.0,
+maria_2017,dataset2,encoder,z1,z2,0.6932673802721501,
+maria_2017,dataset2,encoder,z2,1,0.0,
+maria_2017,dataset2,encoder,z2,z0,0.48832336542259497,
+maria_2017,dataset2,encoder,z2,z1,0.4026388836561703,
+maria_2017,dataset2,encoder,z2,z2,0.3633684514969922,

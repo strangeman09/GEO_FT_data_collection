@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+katrina_2005,dataset2,encoder,z0,1,-0.010505723695123098,
+katrina_2005,dataset2,encoder,z0,z0,0.7037249215530152,
+katrina_2005,dataset2,encoder,z0,z1,-0.10117278445539168,
+katrina_2005,dataset2,encoder,z0,z2,0.1251240047381073,
+katrina_2005,dataset2,encoder,z1,1,0.0,
+katrina_2005,dataset2,encoder,z1,z0,-0.3836814451094507,
+katrina_2005,dataset2,encoder,z1,z1,0.639353856528647,
+katrina_2005,dataset2,encoder,z1,z2,0.3923169333695776,
+katrina_2005,dataset2,encoder,z2,1,-0.019269976446824842,
+katrina_2005,dataset2,encoder,z2,z0,0.5721117933452526,
+katrina_2005,dataset2,encoder,z2,z1,0.4481112821334524,
+katrina_2005,dataset2,encoder,z2,z2,0.35743289730284794,

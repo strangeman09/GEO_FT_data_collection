@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+harvey_2017,dataset2,encoder,z0,1,0.0,
+harvey_2017,dataset2,encoder,z0,z0,0.7242420498640756,
+harvey_2017,dataset2,encoder,z0,z1,0.22562987637601814,
+harvey_2017,dataset2,encoder,z0,z2,0.0,
+harvey_2017,dataset2,encoder,z1,1,0.0,
+harvey_2017,dataset2,encoder,z1,z0,-0.28233660109348707,
+harvey_2017,dataset2,encoder,z1,z1,0.65274246151143,
+harvey_2017,dataset2,encoder,z1,z2,0.33178453706719335,
+harvey_2017,dataset2,encoder,z2,1,0.0,
+harvey_2017,dataset2,encoder,z2,z0,0.6685811106666574,
+harvey_2017,dataset2,encoder,z2,z1,0.0,
+harvey_2017,dataset2,encoder,z2,z2,0.370668896138133,

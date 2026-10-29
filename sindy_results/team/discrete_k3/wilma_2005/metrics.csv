@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+wilma_2005,wilma_2005,dataset2,encoder,d2_enc,102,1,0,0.5,-0.4892726233772821,0.7485024206462343,0.0,26,-1.2848999143701894,1.4066244117355333,0.0

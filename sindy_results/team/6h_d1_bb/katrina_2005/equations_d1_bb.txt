@@ -1,0 +1,6 @@
+== katrina_2005 | d1_bb | n=91 active=0 thr=1 deriv_R2=-0.044 heldout_R2=-3.882 heldout_sim=1.207
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0

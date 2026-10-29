@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+fifi_1974,fifi_1974,dataset1,backbone,d1_bb,99,1,0,1.0,-0.06735842798014224,0.8905086880155523,0.0,25,-0.04802358800469384,0.8107643240789425,0.0

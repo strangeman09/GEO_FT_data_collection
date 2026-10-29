@@ -1,0 +1,4 @@
+== ivan_2004 | d2_enc | n=147 active=0 thr=1 deriv_R2=-0.017 heldout_R2=-0.304 heldout_sim=1.154
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0

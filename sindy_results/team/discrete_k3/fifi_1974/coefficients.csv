@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+fifi_1974,dataset2,encoder,z0,1,0.0,
+fifi_1974,dataset2,encoder,z0,z0,0.275768733326004,
+fifi_1974,dataset2,encoder,z0,z1,0.0,
+fifi_1974,dataset2,encoder,z0,z2,0.31994263629870145,
+fifi_1974,dataset2,encoder,z1,1,0.0,
+fifi_1974,dataset2,encoder,z1,z0,-0.3232718431804071,
+fifi_1974,dataset2,encoder,z1,z1,0.14607294316608507,
+fifi_1974,dataset2,encoder,z1,z2,0.6118548187660346,
+fifi_1974,dataset2,encoder,z2,1,0.0,
+fifi_1974,dataset2,encoder,z2,z0,1.3177939067947517,
+fifi_1974,dataset2,encoder,z2,z1,-0.140823765944536,
+fifi_1974,dataset2,encoder,z2,z2,0.2712161038792358,

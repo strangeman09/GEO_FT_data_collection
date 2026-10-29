@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+camille_1969,camille_1969,dataset2,encoder,d2_enc,90,1,0,0.7,0.02499759887863995,0.9058399009695542,0.0,22,-3.429911876816092,1.5930766170842843,0.0

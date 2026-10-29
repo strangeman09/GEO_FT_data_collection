@@ -1,0 +1,4 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+nargis_2008,nargis_2008,dataset1,encoder,d1_enc,82,1,1,0.5,0.14993132914464674,0.6541905272522801,0.0,20,-0.09234933292811742,0.8913433132173381,0.0
+nargis_2008,nargis_2008,dataset1,backbone,d1_bb,82,1,1,0.5,0.16826440033941037,0.6825285564740566,0.0,20,-0.177126041600402,1.034839602822539,0.0
+nargis_2008,nargis_2008,dataset2,backbone,d2_bb,82,1,3,0.3,0.2801183317253543,0.8311861673749471,0.0,20,-5.866184849917652,1.2639224738762151,0.0

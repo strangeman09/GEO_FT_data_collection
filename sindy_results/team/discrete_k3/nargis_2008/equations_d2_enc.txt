@@ -1,0 +1,4 @@
+== nargis_2008 | d2_enc | n=82 active=2 thr=0.5 deriv_R2=0.727 heldout_R2=0.826 heldout_sim=0.743
+z0[k+1] = 0
+z1[k+1] = +0.846 z2
+z2[k+1] = +1.405 z0 +0.641 z2

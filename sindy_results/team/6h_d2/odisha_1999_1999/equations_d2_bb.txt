@@ -1,0 +1,4 @@
+== odisha_1999_1999 | d2_bb | n=95 active=0 thr=1 deriv_R2=-0.104 heldout_R2=-0.250 heldout_sim=0.551
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0

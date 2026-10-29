@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+nina_1975,nina_1975,dataset1,encoder,d1_enc,95,1,0,1.0,-0.008614407739244356,0.9698504612657144,0.0,24,-0.14919794679044376,1.3171480565567337,0.0

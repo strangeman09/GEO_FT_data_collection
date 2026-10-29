@@ -1,0 +1,4 @@
+== andrew_1992 | d2_bb | n=107 active=5 thr=0.1 deriv_R2=0.119 heldout_R2=-0.617 heldout_sim=1.197
+(z0)' = +0.141 z0 +0.168 z1
+(z1)' = +0.128 z2
+(z2)' = -0.151 z0 -0.327 z1

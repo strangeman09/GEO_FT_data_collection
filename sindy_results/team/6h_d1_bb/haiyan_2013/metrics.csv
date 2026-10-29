@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+haiyan_2013,haiyan_2013,dataset1,backbone,d1_bb,91,1,1,1.0,-0.014353497115160607,0.741207406447171,0.0,23,-0.15608846528723533,0.5616247576233642,0.0

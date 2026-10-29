@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+bhola_1970,dataset2,encoder,z0,1,-0.02417819768181042,
+bhola_1970,dataset2,encoder,z0,z0,0.38574511393049116,
+bhola_1970,dataset2,encoder,z0,z1,-0.575139257163229,
+bhola_1970,dataset2,encoder,z0,z2,0.2658134588522834,
+bhola_1970,dataset2,encoder,z1,1,-0.008772173494205476,
+bhola_1970,dataset2,encoder,z1,z0,-0.343674114027482,
+bhola_1970,dataset2,encoder,z1,z1,-0.20795761233496576,
+bhola_1970,dataset2,encoder,z1,z2,0.3874272825855399,
+bhola_1970,dataset2,encoder,z2,1,0.006974040814514508,
+bhola_1970,dataset2,encoder,z2,z0,0.9320099230860892,
+bhola_1970,dataset2,encoder,z2,z1,0.32677952459781656,
+bhola_1970,dataset2,encoder,z2,z2,0.21039728845883884,

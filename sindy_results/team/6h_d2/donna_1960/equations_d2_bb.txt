@@ -1,0 +1,4 @@
+== donna_1960 | d2_bb | n=119 active=0 thr=1 deriv_R2=-0.017 heldout_R2=-0.048 heldout_sim=1.029
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0

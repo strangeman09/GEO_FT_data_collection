@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+dorian_2019,dorian_2019,dataset1,encoder,d1_enc,115,1,0,1.0,-0.10660417086208067,0.8040844091566453,0.0,29,-0.17765329468966323,0.6921179876101278,0.0

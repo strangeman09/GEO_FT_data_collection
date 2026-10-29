@@ -1,0 +1,6 @@
+== hazel_1954 | d2_bb | n=110 active=1 thr=0.3 deriv_R2=0.113 heldout_R2=0.024 heldout_sim=0.677
+z0[k+1] = +0.943 z0
+z1[k+1] = +0.792 z1
+z2[k+1] = +0.957 z2
+z3[k+1] = +0.493 z0
+z4[k+1] = +0.901 z4

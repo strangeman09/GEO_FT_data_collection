@@ -1,0 +1,6 @@
+== ivan_2004 | d2_bb | n=146 active=1 thr=0.5 deriv_R2=0.186 heldout_R2=-1.608 heldout_sim=0.950
+z0[k+1] = +0.743 z0
+z1[k+1] = +0.824 z1
+z2[k+1] = +0.880 z2
+z3[k+1] = +0.593 z0
+z4[k+1] = +0.827 z4

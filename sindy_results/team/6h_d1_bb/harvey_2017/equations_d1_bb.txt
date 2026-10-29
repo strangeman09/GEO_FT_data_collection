@@ -1,0 +1,6 @@
+== harvey_2017 | d1_bb | n=123 active=0 thr=1 deriv_R2=-0.053 heldout_R2=-0.070 heldout_sim=1.025
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0

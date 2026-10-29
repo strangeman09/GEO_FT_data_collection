@@ -1,0 +1,4 @@
+== hazel_1954 | d2_bb | n=111 active=2 thr=0.3 deriv_R2=0.117 heldout_R2=-0.135 heldout_sim=0.610
+(z0)' = 0
+(z1)' = 0
+(z2)' = +0.472 z0 +0.329 z1

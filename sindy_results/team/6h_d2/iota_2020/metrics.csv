@@ -1,0 +1,3 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+iota_2020,iota_2020,dataset2,encoder,d2_enc,83,1,0,1.0,-0.034922683455927306,1.035603871897138,0.0,21,-0.09162335978827185,0.871831343025326,0.0
+iota_2020,iota_2020,dataset2,backbone,d2_bb,83,1,3,0.3,0.28383790554263283,0.871504285716799,0.0,21,-0.1893788112251568,1.2613406870970973,0.0

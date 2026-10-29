@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+vera_1959,vera_1959,dataset1,encoder,d1_enc,87,1,0,1.0,-0.07340460268758661,0.9172420159809466,0.0,22,-0.11384428715654264,0.8592925407522262,0.0

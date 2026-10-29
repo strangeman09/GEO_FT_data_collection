@@ -1,0 +1,4 @@
+== combined (25 events) | d2_enc | n=2542 active=6 thr=0.1 deriv_R2=0.617 heldout_R2=0.598 heldout_sim=0.877
+z0[k+1] = +0.636 z0 -0.335 z1 +0.300 z2
+z1[k+1] = -0.490 z0 +0.299 z1 +0.532 z2
+z2[k+1] = +0.537 z0 +0.395 z1 +0.326 z2

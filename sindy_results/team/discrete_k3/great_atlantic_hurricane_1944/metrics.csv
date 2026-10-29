@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+great_atlantic_hurricane_1944,great_atlantic_hurricane_1944,dataset2,encoder,d2_enc,86,1,9,0.003,0.6062329090533174,0.9033789690378227,0.0,22,0.2956638558030168,0.9626295015295545,0.0

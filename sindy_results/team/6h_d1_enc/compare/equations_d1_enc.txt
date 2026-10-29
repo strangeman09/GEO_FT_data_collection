@@ -1,0 +1,181 @@
+== andrew_1992 | d1_enc | n=107 active=0 thr=1 deriv_R2=-0.113 heldout_R2=-0.118 heldout_sim=0.725
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== bangladesh_1991_1991 | d1_enc | n=83 active=0 thr=1 deriv_R2=-0.205 heldout_R2=-1.654 heldout_sim=0.975
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== bhola_1970 | d1_enc | n=79 active=0 thr=1 deriv_R2=-0.133 heldout_R2=-0.117 heldout_sim=0.817
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== camille_1969 | d1_enc | n=91 active=0 thr=1 deriv_R2=-0.202 heldout_R2=-0.295 heldout_sim=0.859
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== donna_1960 | d1_enc | n=119 active=0 thr=1 deriv_R2=-0.153 heldout_R2=-0.774 heldout_sim=0.807
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== dorian_2019 | d1_enc | n=115 active=0 thr=1 deriv_R2=-0.107 heldout_R2=-0.178 heldout_sim=0.692
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== fifi_1974 | d1_enc | n=99 active=0 thr=1 deriv_R2=-0.117 heldout_R2=-0.143 heldout_sim=0.682
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== great_atlantic_hurricane_1944 | d1_enc | n=87 active=0 thr=1 deriv_R2=-0.050 heldout_R2=-3.367 heldout_sim=1.364
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== haiyan_2013 | d1_enc | n=91 active=0 thr=1 deriv_R2=-0.176 heldout_R2=-0.303 heldout_sim=0.720
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== harvey_2017 | d1_enc | n=123 active=0 thr=1 deriv_R2=-0.108 heldout_R2=-0.395 heldout_sim=0.916
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== hazel_1954 | d1_enc | n=111 active=0 thr=1 deriv_R2=-0.074 heldout_R2=-0.231 heldout_sim=0.925
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== hugo_1989 | d1_enc | n=119 active=0 thr=1 deriv_R2=-0.059 heldout_R2=-0.047 heldout_sim=0.838
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== iota_2020 | d1_enc | n=83 active=0 thr=1 deriv_R2=-0.087 heldout_R2=-0.035 heldout_sim=0.829
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== irma_2017 | d1_enc | n=111 active=0 thr=1 deriv_R2=-0.090 heldout_R2=-0.720 heldout_sim=0.779
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== ivan_2004 | d1_enc | n=147 active=0 thr=1 deriv_R2=-0.143 heldout_R2=-0.648 heldout_sim=0.433
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== katrina_2005 | d1_enc | n=91 active=0 thr=1 deriv_R2=-0.050 heldout_R2=-4.465 heldout_sim=0.734
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== maria_2017 | d1_enc | n=115 active=0 thr=1 deriv_R2=-0.205 heldout_R2=-0.237 heldout_sim=0.478
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== mitch_1998 | d1_enc | n=115 active=0 thr=1 deriv_R2=-0.068 heldout_R2=-1.065 heldout_sim=0.959
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== nargis_2008 | d1_enc | n=83 active=0 thr=1 deriv_R2=-0.049 heldout_R2=-0.444 heldout_sim=0.881
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== nina_1975 | d1_enc | n=95 active=0 thr=1 deriv_R2=-0.009 heldout_R2=-0.149 heldout_sim=1.317
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== odisha_1999_1999 | d1_enc | n=95 active=0 thr=1 deriv_R2=-0.115 heldout_R2=-0.190 heldout_sim=0.786
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== sandy_2012 | d1_enc | n=103 active=0 thr=1 deriv_R2=-0.105 heldout_R2=-1.745 heldout_sim=1.115
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== tip_1979 | d1_enc | n=115 active=0 thr=1 deriv_R2=-0.211 heldout_R2=-0.260 heldout_sim=0.531
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== vera_1959 | d1_enc | n=87 active=0 thr=1 deriv_R2=-0.073 heldout_R2=-0.114 heldout_sim=0.859
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== wilma_2005 | d1_enc | n=103 active=0 thr=1 deriv_R2=-0.135 heldout_R2=-0.117 heldout_sim=0.863
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0
+
+== combined (25 events) | d1_enc | n=2567 active=15 thr=0.03 deriv_R2=0.103 heldout_R2=0.021 heldout_sim=0.596
+(z0)' = -0.093 1 -0.047 z1
+(z1)' = +0.036 z0 -0.065 z2 +0.210 z3 +0.101 z4 -0.049 z1 z3
+(z2)' = +0.069 z1 -0.050 z0 z2
+(z3)' = -0.190 z1 +0.044 z0^2 -0.045 z0 z3
+(z4)' = -0.105 z1 -0.051 z2 +0.036 z2 z3

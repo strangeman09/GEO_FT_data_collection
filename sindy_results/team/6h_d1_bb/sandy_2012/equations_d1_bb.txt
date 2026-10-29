@@ -1,0 +1,6 @@
+== sandy_2012 | d1_bb | n=103 active=0 thr=1 deriv_R2=-0.038 heldout_R2=-0.580 heldout_sim=1.297
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0

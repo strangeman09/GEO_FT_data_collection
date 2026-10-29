@@ -1,0 +1,4 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+bhola_1970,bhola_1970,dataset1,encoder,d1_enc,78,1,0,0.5,0.03327232389287369,0.7551960004298419,0.0,20,-2.396402101676712,0.965899834633549,0.0
+bhola_1970,bhola_1970,dataset1,backbone,d1_bb,78,1,3,0.5,0.13741810122033266,0.7253795386412314,0.0,20,0.17982430616648495,0.8731256804625314,0.0
+bhola_1970,bhola_1970,dataset2,backbone,d2_bb,78,1,2,0.5,0.3484932345686637,0.8868512900665736,0.0,20,-2.838731079098797,1.2592938665604054,0.0

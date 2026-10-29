@@ -1,0 +1,4 @@
+== tip_1979 | d2_bb | n=115 active=0 thr=1 deriv_R2=-0.044 heldout_R2=-0.569 heldout_sim=1.503
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0

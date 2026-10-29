@@ -1,0 +1,129 @@
+== andrew_1992 | d2_enc | n=107 active=0 thr=1 deriv_R2=-0.015 heldout_R2=-0.081 heldout_sim=1.380
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== bangladesh_1991_1991 | d2_enc | n=83 active=0 thr=1 deriv_R2=-0.017 heldout_R2=-0.151 heldout_sim=0.911
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== bhola_1970 | d2_enc | n=79 active=0 thr=1 deriv_R2=-0.037 heldout_R2=-0.098 heldout_sim=1.214
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== camille_1969 | d2_enc | n=91 active=0 thr=1 deriv_R2=-0.015 heldout_R2=-0.127 heldout_sim=1.472
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== donna_1960 | d2_enc | n=119 active=0 thr=1 deriv_R2=-0.017 heldout_R2=-0.038 heldout_sim=1.078
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== dorian_2019 | d2_enc | n=115 active=0 thr=1 deriv_R2=-0.012 heldout_R2=-0.004 heldout_sim=1.285
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== fifi_1974 | d2_enc | n=99 active=0 thr=1 deriv_R2=-0.013 heldout_R2=0.015 heldout_sim=1.388
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== great_atlantic_hurricane_1944 | d2_enc | n=87 active=0 thr=1 deriv_R2=-0.028 heldout_R2=-0.690 heldout_sim=1.411
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== haiyan_2013 | d2_enc | n=91 active=0 thr=1 deriv_R2=-0.031 heldout_R2=-0.215 heldout_sim=1.041
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== harvey_2017 | d2_enc | n=123 active=0 thr=1 deriv_R2=-0.014 heldout_R2=-0.012 heldout_sim=1.157
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== hazel_1954 | d2_enc | n=111 active=0 thr=1 deriv_R2=-0.008 heldout_R2=-0.117 heldout_sim=0.858
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== hugo_1989 | d2_enc | n=119 active=0 thr=1 deriv_R2=-0.022 heldout_R2=-0.089 heldout_sim=0.814
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== iota_2020 | d2_enc | n=83 active=0 thr=1 deriv_R2=-0.035 heldout_R2=-0.092 heldout_sim=0.872
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== irma_2017 | d2_enc | n=111 active=0 thr=1 deriv_R2=-0.011 heldout_R2=-0.100 heldout_sim=1.473
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== ivan_2004 | d2_enc | n=147 active=0 thr=1 deriv_R2=-0.017 heldout_R2=-0.304 heldout_sim=1.154
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== katrina_2005 | d2_enc | n=91 active=0 thr=1 deriv_R2=-0.010 heldout_R2=-0.208 heldout_sim=0.999
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== maria_2017 | d2_enc | n=115 active=0 thr=1 deriv_R2=-0.018 heldout_R2=-0.020 heldout_sim=1.243
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== mitch_1998 | d2_enc | n=115 active=0 thr=1 deriv_R2=-0.020 heldout_R2=-0.004 heldout_sim=1.035
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== nargis_2008 | d2_enc | n=83 active=0 thr=1 deriv_R2=-0.013 heldout_R2=-0.191 heldout_sim=0.802
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== nina_1975 | d2_enc | n=95 active=0 thr=1 deriv_R2=-0.018 heldout_R2=-0.176 heldout_sim=1.022
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== odisha_1999_1999 | d2_enc | n=95 active=0 thr=1 deriv_R2=-0.114 heldout_R2=-0.205 heldout_sim=0.933
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== sandy_2012 | d2_enc | n=103 active=0 thr=1 deriv_R2=-0.056 heldout_R2=-0.052 heldout_sim=0.519
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== tip_1979 | d2_enc | n=115 active=0 thr=1 deriv_R2=-0.048 heldout_R2=-0.410 heldout_sim=1.096
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== vera_1959 | d2_enc | n=87 active=0 thr=1 deriv_R2=-0.015 heldout_R2=-0.144 heldout_sim=1.549
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== wilma_2005 | d2_enc | n=103 active=0 thr=1 deriv_R2=-0.026 heldout_R2=-0.280 heldout_sim=1.192
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+
+== combined (25 events) | d2_enc | n=2567 active=10 thr=0.03 deriv_R2=0.051 heldout_R2=0.007 heldout_sim=1.077
+(z0)' = -0.057 1 +0.037 z1 -0.033 z2
+(z1)' = +0.032 1 -0.064 z0 -0.162 z2
+(z2)' = -0.060 1 +0.038 z0 +0.155 z1 -0.043 z2

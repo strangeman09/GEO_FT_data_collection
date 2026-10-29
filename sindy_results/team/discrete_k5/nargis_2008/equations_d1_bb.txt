@@ -1,0 +1,6 @@
+== nargis_2008 | d1_bb | n=82 active=1 thr=0.5 deriv_R2=0.168 heldout_R2=-0.177 heldout_sim=1.035
+z0[k+1] = +0.923 z0
+z1[k+1] = +0.948 z1
+z2[k+1] = +0.914 z2
+z3[k+1] = +0.998 z3
+z4[k+1] = -1.065 z2

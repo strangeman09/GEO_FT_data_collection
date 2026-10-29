@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+bangladesh_1991_1991,dataset2,encoder,z0,1,0.0,
+bangladesh_1991_1991,dataset2,encoder,z0,z0,0.0,
+bangladesh_1991_1991,dataset2,encoder,z0,z1,-0.5769085180811828,
+bangladesh_1991_1991,dataset2,encoder,z0,z2,0.0,
+bangladesh_1991_1991,dataset2,encoder,z1,1,0.0,
+bangladesh_1991_1991,dataset2,encoder,z1,z0,-0.7270867541567538,
+bangladesh_1991_1991,dataset2,encoder,z1,z1,0.0,
+bangladesh_1991_1991,dataset2,encoder,z1,z2,0.38395080991915453,
+bangladesh_1991_1991,dataset2,encoder,z2,1,0.0,
+bangladesh_1991_1991,dataset2,encoder,z2,z0,0.4548027695435299,
+bangladesh_1991_1991,dataset2,encoder,z2,z1,0.3729251977366847,
+bangladesh_1991_1991,dataset2,encoder,z2,z2,0.0,

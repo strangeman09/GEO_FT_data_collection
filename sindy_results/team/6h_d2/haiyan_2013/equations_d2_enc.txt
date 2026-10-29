@@ -1,0 +1,4 @@
+== haiyan_2013 | d2_enc | n=91 active=0 thr=1 deriv_R2=-0.031 heldout_R2=-0.215 heldout_sim=1.041
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0

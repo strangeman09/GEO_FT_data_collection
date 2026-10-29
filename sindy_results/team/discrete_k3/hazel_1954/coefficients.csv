@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+hazel_1954,dataset2,encoder,z0,1,0.0,
+hazel_1954,dataset2,encoder,z0,z0,0.8589713396104238,
+hazel_1954,dataset2,encoder,z0,z1,-0.17897864327687982,
+hazel_1954,dataset2,encoder,z0,z2,0.1134047284071649,
+hazel_1954,dataset2,encoder,z1,1,0.0,
+hazel_1954,dataset2,encoder,z1,z0,-0.3142919550114157,
+hazel_1954,dataset2,encoder,z1,z1,0.4919671810939575,
+hazel_1954,dataset2,encoder,z1,z2,0.3253657550525451,
+hazel_1954,dataset2,encoder,z2,1,0.0,
+hazel_1954,dataset2,encoder,z2,z0,0.33949086354133384,
+hazel_1954,dataset2,encoder,z2,z1,0.24898505082462938,
+hazel_1954,dataset2,encoder,z2,z2,0.5033651946869354,

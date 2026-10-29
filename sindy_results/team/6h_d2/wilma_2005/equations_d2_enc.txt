@@ -1,0 +1,4 @@
+== wilma_2005 | d2_enc | n=103 active=0 thr=1 deriv_R2=-0.026 heldout_R2=-0.280 heldout_sim=1.192
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0

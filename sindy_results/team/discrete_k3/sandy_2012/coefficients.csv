@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+sandy_2012,dataset2,encoder,z0,1,0.0,
+sandy_2012,dataset2,encoder,z0,z0,0.9685766222699387,
+sandy_2012,dataset2,encoder,z0,z1,0.0,
+sandy_2012,dataset2,encoder,z0,z2,0.0,
+sandy_2012,dataset2,encoder,z1,1,0.0,
+sandy_2012,dataset2,encoder,z1,z0,-0.25402371582622474,
+sandy_2012,dataset2,encoder,z1,z1,0.7203267321973408,
+sandy_2012,dataset2,encoder,z1,z2,0.19842992186265535,
+sandy_2012,dataset2,encoder,z2,1,0.0,
+sandy_2012,dataset2,encoder,z2,z0,0.3900774052664416,
+sandy_2012,dataset2,encoder,z2,z1,0.32552845482893666,
+sandy_2012,dataset2,encoder,z2,z2,0.3830524780077543,

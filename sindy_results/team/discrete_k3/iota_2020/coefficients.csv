@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+iota_2020,dataset2,encoder,z0,1,0.0,
+iota_2020,dataset2,encoder,z0,z0,0.7422748556793538,
+iota_2020,dataset2,encoder,z0,z1,0.0,
+iota_2020,dataset2,encoder,z0,z2,0.0,
+iota_2020,dataset2,encoder,z1,1,0.0,
+iota_2020,dataset2,encoder,z1,z0,-0.37301941410801154,
+iota_2020,dataset2,encoder,z1,z1,0.6195205826872916,
+iota_2020,dataset2,encoder,z1,z2,0.33818241078400973,
+iota_2020,dataset2,encoder,z2,1,0.0,
+iota_2020,dataset2,encoder,z2,z0,0.4170464942890276,
+iota_2020,dataset2,encoder,z2,z1,0.0,
+iota_2020,dataset2,encoder,z2,z2,0.5828667772368414,

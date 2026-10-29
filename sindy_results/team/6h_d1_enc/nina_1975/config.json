@@ -1,0 +1,28 @@
+{
+ "k": 5,
+ "threshold": 0.01,
+ "threshold_mode": "cv",
+ "alpha": 0.05,
+ "library": "poly2",
+ "control": "none",
+ "anomaly": "event_mean",
+ "ensemble": false,
+ "holdout": 0.25,
+ "dt": 0.25,
+ "discrete": false,
+ "hourly_masked": false,
+ "deriv": "smooth",
+ "min_seg": 12,
+ "sim_days": 4.0,
+ "n_starts": 10,
+ "cv_folds": 4,
+ "cv_thresholds": [
+  0.001,
+  0.003,
+  0.01,
+  0.03,
+  0.1,
+  0.3,
+  1.0
+ ]
+}

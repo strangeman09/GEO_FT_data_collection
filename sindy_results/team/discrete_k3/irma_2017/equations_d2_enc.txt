@@ -1,0 +1,4 @@
+== irma_2017 | d2_enc | n=110 active=5 thr=0.1 deriv_R2=0.645 heldout_R2=0.638 heldout_sim=0.835
+z0[k+1] = +0.134 z2
+z1[k+1] = -0.500 z0 +0.415 z1 +0.528 z2
+z2[k+1] = +1.367 z0 -0.203 z1 +0.586 z2

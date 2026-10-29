@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+nina_1975,dataset2,encoder,z0,1,0.016959183371672022,
+nina_1975,dataset2,encoder,z0,z0,0.496451747635953,
+nina_1975,dataset2,encoder,z0,z1,-0.2420435233325199,
+nina_1975,dataset2,encoder,z0,z2,0.031652022864248806,
+nina_1975,dataset2,encoder,z1,1,-0.02358202313467639,
+nina_1975,dataset2,encoder,z1,z0,-0.5338293091564602,
+nina_1975,dataset2,encoder,z1,z1,0.41185546434317627,
+nina_1975,dataset2,encoder,z1,z2,0.30251350803540583,
+nina_1975,dataset2,encoder,z2,1,-0.013122786117668702,
+nina_1975,dataset2,encoder,z2,z0,0.5989061362048893,
+nina_1975,dataset2,encoder,z2,z1,0.4725949359570555,
+nina_1975,dataset2,encoder,z2,z2,0.4266850840105439,

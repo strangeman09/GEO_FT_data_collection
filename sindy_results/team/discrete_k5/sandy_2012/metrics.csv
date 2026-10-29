@@ -1,0 +1,4 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+sandy_2012,sandy_2012,dataset1,encoder,d1_enc,102,1,0,0.3,0.054887906326726174,0.6995260345413148,0.0,26,-0.5035238430866574,0.8661486675825213,0.0
+sandy_2012,sandy_2012,dataset1,backbone,d1_bb,102,1,25,0.001,0.3937735208410106,0.67709985495312,0.0,26,-0.051282055413550375,0.9782164994773267,0.0
+sandy_2012,sandy_2012,dataset2,backbone,d2_bb,102,1,1,0.3,0.047779013485873455,0.7796761590258368,0.0,26,0.028244632156915507,0.624551964631053,0.0

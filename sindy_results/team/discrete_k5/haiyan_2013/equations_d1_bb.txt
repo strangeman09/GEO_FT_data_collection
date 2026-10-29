@@ -1,0 +1,6 @@
+== haiyan_2013 | d1_bb | n=90 active=1 thr=0.5 deriv_R2=0.106 heldout_R2=-0.013 heldout_sim=0.538
+z0[k+1] = +0.944 z0
+z1[k+1] = +0.994 z1
+z2[k+1] = +0.890 z2
+z3[k+1] = +0.998 z3
+z4[k+1] = +0.896 z0

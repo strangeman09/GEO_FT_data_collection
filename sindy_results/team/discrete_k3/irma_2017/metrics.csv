@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+irma_2017,irma_2017,dataset2,encoder,d2_enc,110,1,5,0.1,0.6448310910005547,0.8846404529752945,0.0,28,0.6376282704039499,0.8349791925750287,0.0

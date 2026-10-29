@@ -1,0 +1,4 @@
+== fifi_1974 | d2_enc | n=99 active=0 thr=1 deriv_R2=-0.013 heldout_R2=0.015 heldout_sim=1.388
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0

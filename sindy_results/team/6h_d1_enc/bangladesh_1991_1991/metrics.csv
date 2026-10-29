@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+bangladesh_1991_1991,bangladesh_1991_1991,dataset1,encoder,d1_enc,83,1,0,1.0,-0.20487539996177923,0.8714620844351556,0.0,21,-1.6543530371507476,0.9750279725492749,0.0

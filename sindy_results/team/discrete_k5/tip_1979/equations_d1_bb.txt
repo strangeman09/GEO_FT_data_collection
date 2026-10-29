@@ -1,0 +1,6 @@
+== tip_1979 | d1_bb | n=114 active=0 thr=0.5 deriv_R2=0.059 heldout_R2=-0.889 heldout_sim=0.748
+z0[k+1] = +0.993 z0
+z1[k+1] = +0.990 z1
+z2[k+1] = +0.913 z2
+z3[k+1] = +0.986 z3
+z4[k+1] = 0

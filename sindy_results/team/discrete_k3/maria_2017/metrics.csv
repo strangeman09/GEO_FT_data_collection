@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+maria_2017,maria_2017,dataset2,encoder,d2_enc,114,1,6,0.3,0.7402390951251586,0.7895802432221236,0.0,28,0.7416671719516262,1.1768740292864348,0.0

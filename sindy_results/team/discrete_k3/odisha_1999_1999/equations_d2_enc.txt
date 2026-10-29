@@ -1,0 +1,4 @@
+== odisha_1999_1999 | d2_enc | n=94 active=6 thr=0.3 deriv_R2=0.768 heldout_R2=0.502 heldout_sim=1.288
+z0[k+1] = +0.510 z0 -0.536 z1 +0.328 z2
+z1[k+1] = -0.652 z0 +0.482 z2
+z2[k+1] = +0.562 z0 +0.484 z1

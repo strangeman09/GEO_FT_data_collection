@@ -1,0 +1,6 @@
+== great_atlantic_hurricane_1944 | d1_bb | n=87 active=1 thr=1 deriv_R2=-0.043 heldout_R2=-1.666 heldout_sim=1.288
+(z0)' = 0
+(z1)' = -1.361 z0 z3
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0

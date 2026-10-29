@@ -1,0 +1,4 @@
+== combined (25 events) | d2_bb | n=2567 active=7 thr=0.03 deriv_R2=0.055 heldout_R2=0.015 heldout_sim=0.749
+(z0)' = -0.047 1 -0.048 z1 -0.129 z2
+(z1)' = +0.046 z0 -0.081 z2
+(z2)' = +0.151 z0 +0.080 z1

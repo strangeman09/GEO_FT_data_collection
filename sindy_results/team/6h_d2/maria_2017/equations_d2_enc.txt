@@ -1,0 +1,4 @@
+== maria_2017 | d2_enc | n=115 active=0 thr=1 deriv_R2=-0.018 heldout_R2=-0.020 heldout_sim=1.243
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0

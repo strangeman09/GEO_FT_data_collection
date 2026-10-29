@@ -1,0 +1,181 @@
+== andrew_1992 | d1_enc | n=106 active=5 thr=0.3 deriv_R2=0.196 heldout_R2=-1.114 heldout_sim=0.933
+z0[k+1] = +0.974 z0
+z1[k+1] = +0.981 z1
+z2[k+1] = -0.426 z0 +0.691 z2
+z3[k+1] = +0.521 z0 +0.847 z2 +0.543 z3
+z4[k+1] = -0.540 z0 -0.340 z3 +0.670 z4
+
+== bangladesh_1991_1991 | d1_enc | n=82 active=2 thr=0.5 deriv_R2=0.224 heldout_R2=-0.756 heldout_sim=0.823
+z0[k+1] = +0.965 z0
+z1[k+1] = +0.977 z1
+z2[k+1] = 0
+z3[k+1] = +0.552 z2
+z4[k+1] = +0.841 z2 +0.929 z4
+
+== bhola_1970 | d1_enc | n=78 active=0 thr=0.5 deriv_R2=0.033 heldout_R2=-2.396 heldout_sim=0.966
+z0[k+1] = +0.956 z0
+z1[k+1] = +0.960 z1
+z2[k+1] = +0.885 z2
+z3[k+1] = 0
+z4[k+1] = 0
+
+== camille_1969 | d1_enc | n=90 active=2 thr=0.3 deriv_R2=0.163 heldout_R2=-0.911 heldout_sim=0.924
+z0[k+1] = +0.990 z0
+z1[k+1] = +0.902 z1
+z2[k+1] = -0.564 z0 +0.579 z2
+z3[k+1] = +0.383 z3
+z4[k+1] = -0.439 z3 +0.707 z4
+
+== donna_1960 | d1_enc | n=118 active=2 thr=0.3 deriv_R2=0.155 heldout_R2=0.035 heldout_sim=0.796
+z0[k+1] = +0.994 z0
+z1[k+1] = +0.962 z1
+z2[k+1] = -0.705 z0
+z3[k+1] = +0.681 z3
+z4[k+1] = -0.407 z3 +0.606 z4
+
+== dorian_2019 | d1_enc | n=114 active=3 thr=0.3 deriv_R2=0.120 heldout_R2=0.114 heldout_sim=0.623
+z0[k+1] = +0.978 z0
+z1[k+1] = +0.997 z1
+z2[k+1] = +0.860 z2
+z3[k+1] = +0.550 z0 -0.349 z1 +0.871 z2 +0.610 z3
+z4[k+1] = +0.754 z4
+
+== fifi_1974 | d1_enc | n=98 active=4 thr=0.3 deriv_R2=0.245 heldout_R2=-0.793 heldout_sim=0.869
+z0[k+1] = +0.957 z0
+z1[k+1] = +0.956 z1
+z2[k+1] = +0.687 z2
+z3[k+1] = -0.701 z0 -0.586 z1
+z4[k+1] = -0.359 z0 -0.568 z3 +0.632 z4
+
+== great_atlantic_hurricane_1944 | d1_enc | n=86 active=0 thr=0.5 deriv_R2=0.076 heldout_R2=-0.610 heldout_sim=1.235
+z0[k+1] = +0.946 z0
+z1[k+1] = +1.039 z1
+z2[k+1] = +0.800 z2
+z3[k+1] = +0.664 z3
+z4[k+1] = +0.885 z4
+
+== haiyan_2013 | d1_enc | n=90 active=3 thr=0.3 deriv_R2=0.193 heldout_R2=-0.138 heldout_sim=0.763
+z0[k+1] = +0.950 z0
+z1[k+1] = +0.997 z1
+z2[k+1] = +0.981 z2 +0.383 z3
+z3[k+1] = -0.312 z4
+z4[k+1] = -0.408 z3 +0.721 z4
+
+== harvey_2017 | d1_enc | n=122 active=1 thr=0.3 deriv_R2=0.085 heldout_R2=-1.685 heldout_sim=1.326
+z0[k+1] = +0.989 z0
+z1[k+1] = +0.989 z1
+z2[k+1] = +0.933 z2
+z3[k+1] = +0.328 z2 +0.690 z3
+z4[k+1] = +0.694 z4
+
+== hazel_1954 | d1_enc | n=110 active=5 thr=0.3 deriv_R2=0.235 heldout_R2=-1.658 heldout_sim=0.972
+z0[k+1] = +0.977 z0
+z1[k+1] = +0.961 z1
+z2[k+1] = +0.353 z0 +0.619 z2
+z3[k+1] = -0.346 z1 +0.517 z2 +0.577 z3
+z4[k+1] = +0.355 z2 -0.419 z3 +0.718 z4
+
+== hugo_1989 | d1_enc | n=118 active=2 thr=0.3 deriv_R2=0.009 heldout_R2=-0.479 heldout_sim=0.890
+z0[k+1] = +0.992 z0
+z1[k+1] = +0.987 z1
+z2[k+1] = 0
+z3[k+1] = +0.572 z2 +0.636 z3
+z4[k+1] = +0.491 z2 +0.969 z4
+
+== iota_2020 | d1_enc | n=82 active=3 thr=0.3 deriv_R2=0.216 heldout_R2=-0.425 heldout_sim=0.898
+z0[k+1] = +0.948 z0
+z1[k+1] = +0.948 z1
+z2[k+1] = +0.723 z2 +0.325 z3
+z3[k+1] = +0.534 z0 -0.441 z4
+z4[k+1] = +0.532 z4
+
+== irma_2017 | d1_enc | n=110 active=2 thr=0.3 deriv_R2=0.131 heldout_R2=-0.086 heldout_sim=0.641
+z0[k+1] = +0.984 z0
+z1[k+1] = +0.985 z1
+z2[k+1] = 0
+z3[k+1] = +0.801 z2 +0.787 z3
+z4[k+1] = +0.564 z2 +0.722 z4
+
+== ivan_2004 | d1_enc | n=146 active=3 thr=0.3 deriv_R2=0.219 heldout_R2=0.159 heldout_sim=0.495
+z0[k+1] = +0.999 z0
+z1[k+1] = +0.963 z1
+z2[k+1] = +0.697 z2 +0.341 z3
+z3[k+1] = +0.604 z2
+z4[k+1] = -0.395 z3 +0.894 z4
+
+== katrina_2005 | d1_enc | n=90 active=3 thr=0.3 deriv_R2=0.201 heldout_R2=-10.914 heldout_sim=1.057
+z0[k+1] = +0.971 z0
+z1[k+1] = +0.940 z1
+z2[k+1] = +0.714 z2
+z3[k+1] = +0.671 z2 +0.702 z3
+z4[k+1] = +0.429 z2 -0.302 z3 +0.668 z4
+
+== maria_2017 | d1_enc | n=114 active=11 thr=0.1 deriv_R2=0.258 heldout_R2=-0.044 heldout_sim=0.843
+z0[k+1] = +1.000 z0
+z1[k+1] = +0.994 z1
+z2[k+1] = -0.208 z0 -0.177 z1 +0.362 z2 +0.223 z3 -0.118 z4
+z3[k+1] = +0.160 z0 +0.112 z1 +0.772 z2 +0.527 z3
+z4[k+1] = -0.139 z0 +0.175 z1 +0.345 z2 -0.281 z3 +0.624 z4
+
+== mitch_1998 | d1_enc | n=114 active=0 thr=0.3 deriv_R2=0.054 heldout_R2=-0.130 heldout_sim=0.881
+z0[k+1] = +0.986 z0
+z1[k+1] = +0.960 z1
+z2[k+1] = +0.974 z2
+z3[k+1] = +0.597 z3
+z4[k+1] = +0.913 z4
+
+== nargis_2008 | d1_enc | n=82 active=1 thr=0.5 deriv_R2=0.150 heldout_R2=-0.092 heldout_sim=0.891
+z0[k+1] = +0.700 z0
+z1[k+1] = +0.945 z1
+z2[k+1] = +0.895 z2
+z3[k+1] = +0.743 z3
+z4[k+1] = -0.983 z0 +0.856 z4
+
+== nina_1975 | d1_enc | n=94 active=12 thr=0.1 deriv_R2=0.377 heldout_R2=-0.161 heldout_sim=1.248
+z0[k+1] = +0.790 z0 -0.114 z3
+z1[k+1] = -0.150 z0 +0.887 z1
+z2[k+1] = +0.293 z2 +0.170 z3 -0.199 z4
+z3[k+1] = -1.078 z0 -0.238 z1 +0.468 z2 +0.440 z3 +0.171 z4
+z4[k+1] = -0.794 z0 -0.494 z1 +0.127 z2 -0.311 z3 +0.719 z4
+
+== odisha_1999_1999 | d1_enc | n=94 active=1 thr=0.3 deriv_R2=0.094 heldout_R2=-0.790 heldout_sim=1.144
+z0[k+1] = +0.986 z0
+z1[k+1] = +0.993 z1
+z2[k+1] = +0.980 z2
+z3[k+1] = +0.736 z3
+z4[k+1] = -0.420 z3 +0.727 z4
+
+== sandy_2012 | d1_enc | n=102 active=0 thr=0.3 deriv_R2=0.055 heldout_R2=-0.504 heldout_sim=0.866
+z0[k+1] = +0.974 z0
+z1[k+1] = +0.940 z1
+z2[k+1] = +0.981 z2
+z3[k+1] = +0.709 z3
+z4[k+1] = +0.836 z4
+
+== tip_1979 | d1_enc | n=114 active=0 thr=0.5 deriv_R2=0.048 heldout_R2=-1.425 heldout_sim=0.965
+z0[k+1] = +0.991 z0
+z1[k+1] = +0.990 z1
+z2[k+1] = +0.967 z2
+z3[k+1] = +0.585 z3
+z4[k+1] = +0.895 z4
+
+== vera_1959 | d1_enc | n=86 active=1 thr=0.5 deriv_R2=0.256 heldout_R2=0.118 heldout_sim=0.851
+z0[k+1] = +0.968 z0
+z1[k+1] = +0.940 z1
+z2[k+1] = 0
+z3[k+1] = +1.105 z2 +0.674 z3
+z4[k+1] = 0
+
+== wilma_2005 | d1_enc | n=102 active=0 thr=0.3 deriv_R2=0.048 heldout_R2=-0.160 heldout_sim=0.608
+z0[k+1] = +0.971 z0
+z1[k+1] = +0.989 z1
+z2[k+1] = +0.946 z2
+z3[k+1] = +0.667 z3
+z4[k+1] = +0.865 z4
+
+== combined (25 events) | d1_enc | n=2542 active=24 thr=0.001 deriv_R2=0.195 heldout_R2=0.128 heldout_sim=0.796
+z0[k+1] = -0.024 1 +0.983 z0 -0.017 z1 +0.031 z2 -0.061 z3 -0.028 z4
+z1[k+1] = -0.004 1 +0.007 z0 +0.982 z1 +0.012 z3 +0.011 z4
+z2[k+1] = -0.007 1 +0.033 z0 +0.039 z1 +0.906 z2 +0.149 z3 +0.063 z4
+z3[k+1] = +0.010 1 -0.044 z0 -0.101 z1 +0.156 z2 +0.663 z3 -0.158 z4
+z4[k+1] = +0.001 1 -0.065 z0 -0.060 z1 +0.135 z2 -0.265 z3 +0.762 z4

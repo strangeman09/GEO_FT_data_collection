@@ -1,0 +1,6 @@
+== nina_1975 | d1_enc | n=95 active=0 thr=1 deriv_R2=-0.009 heldout_R2=-0.149 heldout_sim=1.317
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0
+(z3)' = 0
+(z4)' = 0

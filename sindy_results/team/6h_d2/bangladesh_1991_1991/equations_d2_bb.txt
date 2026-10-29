@@ -1,0 +1,4 @@
+== bangladesh_1991_1991 | d2_bb | n=83 active=1 thr=0.3 deriv_R2=0.081 heldout_R2=-0.128 heldout_sim=0.987
+(z0)' = 0
+(z1)' = 0
+(z2)' = +0.348 z0

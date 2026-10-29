@@ -1,0 +1,4 @@
+== irma_2017 | d2_bb | n=111 active=0 thr=1 deriv_R2=-0.015 heldout_R2=-0.388 heldout_sim=1.333
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0

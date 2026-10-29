@@ -1,0 +1,4 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+great_atlantic_hurricane_1944,great_atlantic_hurricane_1944,dataset1,encoder,d1_enc,86,1,0,0.5,0.07640047673626964,0.7970744678818822,0.0,22,-0.6097852538759424,1.2350012585751022,0.0
+great_atlantic_hurricane_1944,great_atlantic_hurricane_1944,dataset1,backbone,d1_bb,86,1,4,0.3,0.28298308117642385,0.843082609530583,0.0,22,-0.6281635941914733,1.3349061033405603,0.0
+great_atlantic_hurricane_1944,great_atlantic_hurricane_1944,dataset2,backbone,d2_bb,86,1,2,0.3,0.1662641023088306,0.8517850897623607,0.0,22,0.12798129610931314,0.7994093481422578,0.0

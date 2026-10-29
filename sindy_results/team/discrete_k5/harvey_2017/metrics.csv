@@ -1,0 +1,4 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+harvey_2017,harvey_2017,dataset1,encoder,d1_enc,122,1,1,0.3,0.0845295841410392,0.5802549414125784,0.0,30,-1.685114037855278,1.3262667344246377,0.0
+harvey_2017,harvey_2017,dataset1,backbone,d1_bb,122,1,6,0.3,0.2070688408603317,0.8262164254959377,0.0,30,-0.017399400482374094,0.8511642103327524,0.0
+harvey_2017,harvey_2017,dataset2,backbone,d2_bb,122,1,9,0.1,0.43382522570501997,0.8420245868286695,0.0,30,0.171931187875409,0.8696736226925487,0.0

@@ -1,0 +1,4 @@
+== vera_1959 | d2_enc | n=87 active=0 thr=1 deriv_R2=-0.015 heldout_R2=-0.144 heldout_sim=1.549
+(z0)' = 0
+(z1)' = 0
+(z2)' = 0

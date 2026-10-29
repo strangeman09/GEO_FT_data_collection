@@ -1,0 +1,4 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+bangladesh_1991_1991,bangladesh_1991_1991,dataset1,encoder,d1_enc,82,1,2,0.5,0.2244701136882024,0.7732829646422212,0.0,20,-0.756158112712592,0.8226141793446727,0.0
+bangladesh_1991_1991,bangladesh_1991_1991,dataset1,backbone,d1_bb,82,1,6,0.3,0.25770511481471486,0.7448567544704179,0.0,20,-0.4285413125128753,1.3919612664592034,0.0
+bangladesh_1991_1991,bangladesh_1991_1991,dataset2,backbone,d2_bb,82,1,20,0.03,0.6163643182202456,0.6972734600625125,0.0,20,-0.45106014911863934,0.8198754150309242,0.0

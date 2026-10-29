@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+hugo_1989,hugo_1989,dataset2,encoder,d2_enc,118,1,6,0.1,0.5863882840209612,0.7809898164977948,0.0,30,0.5194804293486528,0.9527987480720569,0.0

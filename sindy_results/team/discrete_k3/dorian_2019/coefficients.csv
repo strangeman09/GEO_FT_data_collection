@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+dorian_2019,dataset2,encoder,z0,1,0.0,
+dorian_2019,dataset2,encoder,z0,z0,0.701671528274404,
+dorian_2019,dataset2,encoder,z0,z1,-0.17144889957663487,
+dorian_2019,dataset2,encoder,z0,z2,0.1815444465511775,
+dorian_2019,dataset2,encoder,z1,1,0.0,
+dorian_2019,dataset2,encoder,z1,z0,-0.40498618273825127,
+dorian_2019,dataset2,encoder,z1,z1,0.426532266202291,
+dorian_2019,dataset2,encoder,z1,z2,0.4042578355082107,
+dorian_2019,dataset2,encoder,z2,1,0.0,
+dorian_2019,dataset2,encoder,z2,z0,0.49692945599643423,
+dorian_2019,dataset2,encoder,z2,z1,0.2124758347713932,
+dorian_2019,dataset2,encoder,z2,z2,0.3894338484543817,

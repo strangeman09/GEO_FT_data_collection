@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+tip_1979,dataset2,encoder,z0,1,0.0,
+tip_1979,dataset2,encoder,z0,z0,0.5922140933385754,
+tip_1979,dataset2,encoder,z0,z1,-0.5538425611114561,
+tip_1979,dataset2,encoder,z0,z2,0.2616287342328272,
+tip_1979,dataset2,encoder,z1,1,0.0,
+tip_1979,dataset2,encoder,z1,z0,-0.7061347432934918,
+tip_1979,dataset2,encoder,z1,z1,0.0,
+tip_1979,dataset2,encoder,z1,z2,0.4111947565173689,
+tip_1979,dataset2,encoder,z2,1,0.0,
+tip_1979,dataset2,encoder,z2,z0,0.394799262387391,
+tip_1979,dataset2,encoder,z2,z1,0.5273249289770628,
+tip_1979,dataset2,encoder,z2,z2,0.35818045578927493,

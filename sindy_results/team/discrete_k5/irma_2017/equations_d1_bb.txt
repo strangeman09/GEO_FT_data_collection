@@ -1,0 +1,6 @@
+== irma_2017 | d1_bb | n=110 active=0 thr=0.7 deriv_R2=0.063 heldout_R2=-1.296 heldout_sim=1.199
+z0[k+1] = +0.987 z0
+z1[k+1] = +0.991 z1
+z2[k+1] = +0.805 z2
+z3[k+1] = +0.987 z3
+z4[k+1] = 0

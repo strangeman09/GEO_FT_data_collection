@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+irma_2017,dataset2,encoder,z0,1,0.0,
+irma_2017,dataset2,encoder,z0,z0,0.0,
+irma_2017,dataset2,encoder,z0,z1,0.0,
+irma_2017,dataset2,encoder,z0,z2,0.1338034930288106,
+irma_2017,dataset2,encoder,z1,1,0.0,
+irma_2017,dataset2,encoder,z1,z0,-0.4996612105336593,
+irma_2017,dataset2,encoder,z1,z1,0.41462489998950897,
+irma_2017,dataset2,encoder,z1,z2,0.528430871025279,
+irma_2017,dataset2,encoder,z2,1,0.0,
+irma_2017,dataset2,encoder,z2,z0,1.3666888851403263,
+irma_2017,dataset2,encoder,z2,z1,-0.20342426582579343,
+irma_2017,dataset2,encoder,z2,z2,0.5861432462382519,

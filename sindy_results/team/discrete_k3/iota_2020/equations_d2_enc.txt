@@ -1,0 +1,4 @@
+== iota_2020 | d2_enc | n=82 active=3 thr=0.3 deriv_R2=0.318 heldout_R2=-1.586 heldout_sim=1.250
+z0[k+1] = +0.742 z0
+z1[k+1] = -0.373 z0 +0.620 z1 +0.338 z2
+z2[k+1] = +0.417 z0 +0.583 z2

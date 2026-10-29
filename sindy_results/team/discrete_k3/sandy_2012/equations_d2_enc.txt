@@ -1,0 +1,4 @@
+== sandy_2012 | d2_enc | n=102 active=4 thr=0.1 deriv_R2=0.232 heldout_R2=-0.310 heldout_sim=0.973
+z0[k+1] = +0.969 z0
+z1[k+1] = -0.254 z0 +0.720 z1 +0.198 z2
+z2[k+1] = +0.390 z0 +0.326 z1 +0.383 z2

@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+great_atlantic_hurricane_1944,dataset2,encoder,z0,1,-0.022025589403787096,
+great_atlantic_hurricane_1944,dataset2,encoder,z0,z0,0.6724092557491036,
+great_atlantic_hurricane_1944,dataset2,encoder,z0,z1,-0.3384845937076961,
+great_atlantic_hurricane_1944,dataset2,encoder,z0,z2,0.2966464872806372,
+great_atlantic_hurricane_1944,dataset2,encoder,z1,1,0.012815956077705202,
+great_atlantic_hurricane_1944,dataset2,encoder,z1,z0,-0.42009364830702345,
+great_atlantic_hurricane_1944,dataset2,encoder,z1,z1,0.3358449588310874,
+great_atlantic_hurricane_1944,dataset2,encoder,z1,z2,0.4676753836122989,
+great_atlantic_hurricane_1944,dataset2,encoder,z2,1,-0.044668614770062814,
+great_atlantic_hurricane_1944,dataset2,encoder,z2,z0,0.5412471000402037,
+great_atlantic_hurricane_1944,dataset2,encoder,z2,z1,0.38888701813544685,
+great_atlantic_hurricane_1944,dataset2,encoder,z2,z2,0.4436206087581306,

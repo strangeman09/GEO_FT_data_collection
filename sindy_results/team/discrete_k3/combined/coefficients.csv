@@ -1,0 +1,13 @@
+event,dataset,output,target,term,coef,incl_prob
+combined,dataset2,encoder,z0,1,0.0,
+combined,dataset2,encoder,z0,z0,0.6359310572593211,
+combined,dataset2,encoder,z0,z1,-0.33465785373677953,
+combined,dataset2,encoder,z0,z2,0.2997844856079185,
+combined,dataset2,encoder,z1,1,0.0,
+combined,dataset2,encoder,z1,z0,-0.490468709941012,
+combined,dataset2,encoder,z1,z1,0.29888272751649536,
+combined,dataset2,encoder,z1,z2,0.5324635779140644,
+combined,dataset2,encoder,z2,1,0.0,
+combined,dataset2,encoder,z2,z0,0.5373706878956492,
+combined,dataset2,encoder,z2,z1,0.3952514021194675,
+combined,dataset2,encoder,z2,z2,0.3264674288960159,

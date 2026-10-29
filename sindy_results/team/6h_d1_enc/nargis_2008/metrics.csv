@@ -1,0 +1,2 @@
+model,event,dataset,output,combo,n_samples,n_segments,n_active_terms,threshold,deriv_r2,sim_nrmse,sim_blowup_frac,heldout_n,heldout_r2,heldout_sim_nrmse,heldout_blowup_frac
+nargis_2008,nargis_2008,dataset1,encoder,d1_enc,83,1,0,1.0,-0.04914410901047894,0.7633846913130902,0.0,21,-0.4436647653437106,0.8812161697457302,0.0

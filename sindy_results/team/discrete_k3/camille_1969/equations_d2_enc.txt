@@ -1,0 +1,4 @@
+== camille_1969 | d2_enc | n=90 active=0 thr=0.7 deriv_R2=0.025 heldout_R2=-3.430 heldout_sim=1.593
+z0[k+1] = 0
+z1[k+1] = +0.806 z1
+z2[k+1] = 0
